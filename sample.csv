@@ -1,0 +1,5 @@
+mailbox,rule_name,forward_to,enabled
+ali,To personal,ali.personal@gmail.com,yes
+sara,To manager,sara.manager@company.local,yes
+omar,Old rule,,no
+bob,To vendor,vendor@partner.example,yes
